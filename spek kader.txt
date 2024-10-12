@@ -1,3 +1,4 @@
+
 1.bantal
 2. name tag
 3. slayer
@@ -5,3 +6,4 @@
 5. ATK
 6.kaos
 7.topi
+ 8.terserah bang
